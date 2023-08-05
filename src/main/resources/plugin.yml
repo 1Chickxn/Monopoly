@@ -1,0 +1,8 @@
+name: Monopoly
+version: 1.0
+main: me.chickxn.Monopoly
+author: 1Chickxn
+api-version: 1.19
+commands:
+  setup:
+  start:
